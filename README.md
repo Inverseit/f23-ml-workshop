@@ -1,1 +1,1 @@
-# s23-ml-recitation
+# f23-ml-workshop
